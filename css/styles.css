@@ -1,3 +1,13 @@
 h1 {
-  color: #ff44ee;
+  color: black;
+}
+
+.dark {
+  background-color: #5b5b5b;
+  color: white;
+}
+
+.light {
+  background-color: #91c5ff;
+  color: black;
 }
